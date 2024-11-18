@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 import { 
   useCallStateHooks,
-  StreamVideoParticipant,
+  // StreamVideoParticipant,
   // hasAudio,
   // hasVideo,
 } from '@stream-io/video-react-sdk';
